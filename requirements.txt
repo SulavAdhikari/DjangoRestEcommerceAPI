@@ -1,0 +1,7 @@
+django==4.0.1
+PyJWT==2.3.0
+djangorestframework==3.13.1
+pillow
+channels==3.0.4
+channels_redis==3.3.1
+django-cors-headers==3.11.0
